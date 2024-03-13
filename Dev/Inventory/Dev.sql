@@ -1,0 +1,3 @@
+CREATE TABLE Inventory (
+    name VARCHAR(255) NOT NULL
+)
